@@ -1,4 +1,4 @@
--7\.name: First workflow
+name: First workflow
 on: workflow_dispatch
 jobs:
   first-job:
